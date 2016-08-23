@@ -163,8 +163,6 @@ h1 {
 .twitter {
 	text-align: center;
 	vertical-align: top;
-
-
 }
 .twitter img {
 	width: 30px;
@@ -172,4 +170,5 @@ h1 {
 }
 .twitter a {
 	text-decoration: none;
+	font-family: 'Oswald', sans-serif;
 }
